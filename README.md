@@ -1,4 +1,4 @@
-# BetaSharp
+# BetaClient
 
 ![C#](https://img.shields.io/badge/language-C%23-512BD4)
 ![.NET](https://img.shields.io/badge/framework-.NET-512BD4)
